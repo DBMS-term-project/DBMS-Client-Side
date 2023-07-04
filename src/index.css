@@ -1,13 +1,12 @@
-body {
+body{
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+  padding: 0;
+  background-color: rgb(234, 209, 87);
+  background-color: rgb(231, 231, 235);
+  background-image: url("./erp-system-850.jpg");
+  /* background-position: center;
+  background-attachment: scroll; */
+  background-size: cover;
+  /* color:rgb(246, 156, 138);; */
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
 }
